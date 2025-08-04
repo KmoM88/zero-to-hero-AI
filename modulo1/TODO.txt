@@ -1,0 +1,6 @@
+- Mejorar 1.0 con distintos temas que sean relevantes
+- En 1.1 perceptrons agregar distintas funciones para el perceptron (sigmoide/tangente) y también graficar los valores de w y b para distinta cantidad de epocas y distintos learning steps. Tambien tratar de agregar un ejemplo con ese dataset pero que las muestras estén más superpuestas (usar la otra especie)
+- En 1.2 hacer el entrenamiento, no cargar los pesos y biases
+- En 1.3 mejorar explicacion de como se calculan las derivadas en el codigo
+- En 1.4 tambien mejorar explicacion de algoritmos avanzados y sumar ejemplo RMSprop
+- En 1.5 comparar en ambas libs loss function con distintos optimizadores
