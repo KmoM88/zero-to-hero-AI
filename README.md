@@ -11,14 +11,14 @@ This repository contains a practical and progressive roadmap to learn from the f
 ### 🔰 Module 1: Fundamentals of Neural Networks
 > Objective: Understand and implement basic neural networks from scratch.
 
-- [ ] 1.0 Brief review: linear algebra and calculus for neural networks *(optional)*
-- [ ] 1.1 Perceptron and learning rule (NumPy)
+- [x] 1.0 Brief review: linear algebra and calculus for neural networks *(optional)*
+- [x] 1.1 Perceptron and learning rule (NumPy)
   - Dataset: Iris (UCI)
-- [ ] 1.2 Simple Multilayer Perceptron (MLP)
+- [x] 1.2 Simple Multilayer Perceptron (MLP)
   - Dataset: MNIST
-- [ ] 1.3 Manual backpropagation
-- [ ] 1.4 Optimization: SGD, Adam, and other optimizers
-- [ ] 1.5 First MLP with TensorFlow and PyTorch
+- [x] 1.3 Manual backpropagation
+- [x] 1.4 Optimization: SGD, Adam, and other optimizers
+- [x] 1.5 First MLP with TensorFlow and PyTorch
 
 ---
 
