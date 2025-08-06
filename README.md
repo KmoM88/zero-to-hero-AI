@@ -41,7 +41,7 @@ This repository contains a practical and progressive roadmap to learn from the f
 ### 📷 Module 3: Convolutional Neural Networks (CNN)
 > Objective: Apply deep learning to computer vision.
 
-- [ ] 3.1 CNN Fundamentals (convolutions, pooling, etc.)
+- [x] 3.1 CNN Fundamentals (convolutions, pooling, etc.)
   - Dataset: CIFAR-10
 - [ ] 3.2 Classic architectures: LeNet, VGG, ResNet
 - [ ] 3.3 Transfer Learning (MobileNet/ResNet)
