@@ -1,0 +1,37 @@
+# TODO for Module 2: Deep Neural Networks (DNN)
+
+## 2.1 Regularization: Dropout and L2
+- Add more visualizations comparing overfitting vs regularization effects.
+- Include code for Fashion MNIST as well as MNIST.
+- Expand theory section with more mathematical intuition.
+- Add exercises for tuning dropout and L2 parameters.
+- Compare results with/without regularization in both frameworks.
+
+## 2.2 Validation and Hyperparameter Tuning
+- Add grid search and random search examples.
+- Include k-fold cross-validation code for small datasets.
+- Visualize hyperparameter impact (e.g., heatmaps).
+- Add tips for automated hyperparameter tuning (KerasTuner, Ray Tune).
+- Discuss common pitfalls and best practices.
+
+## 2.3 Techniques to Avoid Overfitting (BatchNorm, Augmentation)
+- Add more augmentation examples (noise, elastic, cutout).
+- Compare training curves with/without BatchNorm and augmentation.
+- Discuss when to use BatchNorm vs LayerNorm.
+- Add PyTorch code for advanced augmentations.
+- Include a section on augmentation for non-image data.
+
+## 2.4 Introduction to MLOps: Model and Experiment Versioning
+- Add a diagram of a full MLOps pipeline.
+- Include code for MLflow and DVC integration.
+- Add a section on CI/CD for ML projects.
+- Discuss model registry and deployment best practices.
+- Compare open-source and cloud-native MLOps tools.
+
+## 2.5 Project: Digit Classifier with GUI (Tkinter)
+- Add error handling and logging to the GUI code.
+- Include packaging instructions (PyInstaller, cx_Freeze).
+- Add tests for model and GUI functionality.
+- Discuss how to update the model in production.
+- Suggest improvements for UI/UX and accessibility.
+- Add option to use PyTorch/ONNX model in the GUI.
