@@ -27,12 +27,12 @@ This repository contains a practical and progressive roadmap to learn from the f
 ### 🔁 Module 2: Deep Neural Networks (DNN)
 > Objective: Train deep networks and apply improvement techniques.
 
-- [ ] 2.1 Regularization: Dropout and L2
+- [x] 2.1 Regularization: Dropout and L2
   - Dataset: Fashion MNIST
-- [ ] 2.2 Validation and hyperparameter tuning
-- [ ] 2.3 Techniques to avoid overfitting (BatchNorm, augmentation)
-- [ ] 2.4 Introduction to MLOps: model and experiment versioning *(for exploration)*
-- [ ] 2.5 Project: Digit Classifier with GUI (Tkinter)
+- [x] 2.2 Validation and hyperparameter tuning
+- [x] 2.3 Techniques to avoid overfitting (BatchNorm, augmentation)
+- [x] 2.4 Introduction to MLOps: model and experiment versioning *(for exploration)*
+- [x] 2.5 Project: Digit Classifier with GUI (Tkinter)
 
 ---
 
